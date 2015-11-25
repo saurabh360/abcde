@@ -8,7 +8,7 @@ namespace frgdff
 	public class MainActivity : Activity
 	{
 		int count = 1;
-
+		//sdsdsdsd
 		protected override void OnCreate (Bundle savedInstanceState)
 		{
 			base.OnCreate (savedInstanceState);
